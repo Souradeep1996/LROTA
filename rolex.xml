@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <rolex>
-            <Filename>9.1.1-20180611-OFFICIAL-rolex</Filename>
+            <Filename>9.1.1-20180612-OFFICIAL-rolex</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for Rolex">https://www.androidfilehost.com/?fid=746163614322269278</RomUrl>
+                description="Download latest build for Rolex">https://www.androidfilehost.com/?fid=746163614322270257</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
