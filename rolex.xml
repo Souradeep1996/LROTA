@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <rolex>
-            <Filename>9.1.1-20180612-OFFICIAL-rolex</Filename>
+            <Filename>9.1.1-20180613-OFFICIAL-rolex</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for Rolex/Riva">https://www.androidfilehost.com/?fid=818222786056036174</RomUrl>
+                description="Download latest build for Rolex/Riva">https://www.androidfilehost.com/?fid=962339331458998117</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://pastebin.com/u3pYSbBz</ChangelogUrl>
+                description="Click here to view latest changes">https://raw.githubusercontent.com/Souradeep1996/LiquidChangelogs/master/Changelog_Rolex.txt</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
